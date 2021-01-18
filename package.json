@@ -1,0 +1,32 @@
+{
+  "name": "gringotts",
+  "version": "1.0.0",
+  "description": "Gringotts Bot",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Arselis",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "crypto": "^1.0.1",
+    "dateformat": "^4.4.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.25.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.1.10",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.7",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4"
+  }
+}

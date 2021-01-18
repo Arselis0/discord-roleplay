@@ -4,4 +4,4 @@ Diledidğiniz gibi değiştirip/silip/ekleyip kullanabilirsiniz.
 Tavsiyem: Visual Studio Code indirip onun üzerinden açmanızı tavsiye ederim.
 
 
-Discord:Arselis#9333
+Discord: Arselis#9333
